@@ -1,5 +1,12 @@
 # DEF - Desmatamento em foco 
 
+> Descrição detalhada do projeto
+
+![image](https://user-images.githubusercontent.com/46010565/193409048-680000cb-d55f-4206-95ab-bfc9c96ee479.png)
+
+
+
+
 **Qual o problema que  decidimos resolver?**
 
 Nos dias de hoje a solução para mapeamento do desmatamento da Amazônia, no Brasil, é feita por uma solução desenvolvida em 2003 pelo INPE (Instituto Nacional de Pesquisas Espaciais), com os dados e tecnologias disponíveis na época.
