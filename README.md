@@ -1,5 +1,6 @@
 # DEF - Desmatamento em foco 
 
+
 Descrição detalhada do projeto
 
 ![image](https://user-images.githubusercontent.com/46010565/193409048-680000cb-d55f-4206-95ab-bfc9c96ee479.png)
