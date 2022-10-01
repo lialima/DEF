@@ -1,6 +1,6 @@
 # DEF - Desmatamento em foco 
 
-Qual o problema que  decidimos resolver?*
+**Qual o problema que  decidimos resolver?**
 
 Nos dias de hoje a solução para mapeamento do desmatamento da Amazônia, no Brasil, é feita por uma solução desenvolvida em 2003 pelo INPE (Instituto Nacional de Pesquisas Espaciais), com os dados e tecnologias disponíveis na época.
 Essa ferramenta do INPE tem uma resolução de 900 m2 por pixel, que pode gerar um erro de interpretação dos dados pela baixa precisão da escala.
@@ -8,7 +8,7 @@ Leigos podem utilizar o argumento da baixa definição das imagens para desprest
 Um exemplo famoso e recente foi o embate entre o ex-ministro do meio ambiente do Brasil e o ex-diretor do INPE acerca da magnitude do desmatamento na Amazonia. 
 Acreditamos que uma ideia apaixonante aliada a uma solução tecnológica é o combustível para a construção e execução de um projeto incrível, que realmente pode fazer uma diferença positiva em nosso planeta!
 
-Qual a proposta de valor do negócio/projeto?*
+**Qual a proposta de valor do negócio/projeto?**
 A proposta de valor do negócio é prover embasamento sólido e irrefutável para tomada de decisões que envolvam o mapeamento do uso e ocupação do solo, exemplificado pela preservação das Florestas. Forneceremos análises, métricas e imagens baseadas na classificação supervisionada do uso e ocupação do solo. 
 
 A solução atual que monitora e disponibiliza os dados da Floresta Amazônica é o PRODES, desenvolvido em 2003 pelo INPE (Instituto Nacional de Pesquisas Espaciais), que proporciona uma resolução de 900 m2 por pixel.
@@ -23,7 +23,7 @@ Os serviços prestados pelo nosso negócio poderão embasar além de pesquisas s
 * monitoramento de áreas de garimpo ilegal;
 * visualizações aéreas de grandes áreas de cultivo ou criação de gado
 
-Qual a viabilidade do negócio/projeto?*
+**Qual a viabilidade do negócio/projeto?**
 Aqui você vai nos contar como será e como vocês estão pensando nos pontos de viabilidade e sustentabilidade (econômica, social e ambiental) do seu projeto.
 Econômica
 Analisamos que o tamanho total do mercado alcançável (TAM) no Brasil é de R$ 75,64 milhões. Demonstramos abaixo, de maneira segmentada por mercado::
@@ -54,7 +54,7 @@ Essa solução permite o acesso aos dados agregados e compilados de forma acess�
 Ambiental
 O impacto ambiental deste negócio é o consumo de energia elétrica para o processamento dos dados analisados, que avaliamos ser baixo.
 
-Quem é o usuário para a sua solução/projeto?*
+**Quem é o usuário para a sua solução/projeto?**
 Descreva de forma detalhada quem é (ou quem são) os usuários para o seu projeto proposto.
 
 Os usuários que utilizarão nossa solução são:
@@ -65,7 +65,7 @@ Instituições Financeiras e Seguradoras
 ONGs que atuam na preservação do meio ambiente
 
 
-Quais benefícios sua solução oferece aos usuários?*
+**Quais benefícios sua solução oferece aos usuários?**
 Nossos clientes terão acesso a dados precisos, sem ter a necessidade do conhecimento específico de geoprocessamento, e ciência de dados ambientais.
 Obterão as análises e informações para sustentação técnica de um plano diretor e tomadas de decisão sobre uso e ocupação do solo.
 
@@ -74,13 +74,13 @@ Obterão as análises e informações para sustentação técnica de um plano di
 O Sensoriamento remoto e monitoramento de área plantada, para instituições financeiras e seguradoras, oferece o benefício de visualização forma comparativa a apólice e o dado real, a fim de evitar fraudes
 
 
-Quais serão as principais atividades/funcionalidades ofertadas pela sua plataforma / solução?*
+**Quais serão as principais atividades/funcionalidades ofertadas pela sua plataforma / solução?**
 
 1) Solução de geoprocessamento em alta precisão e qualidade
 2) Classificação da paisagem em três cliques–escolha a área de interesse na composição RGB de cor natural em luz visível e obtenha a classificação supervisionada do uso e ocupação do solo e suas métricas de composição e configuração
 3) Estimativas de perdas de mata nativa e outras conversões de interesse em regiões específica e em períodos escolhidos
 
-Qual será a estrutura de custos necessária para a sua solução/projeto?*
+**Qual será a estrutura de custos necessária para a sua solução/projeto?**
 
 Desenvolvimento da versão 1 do projeto.
 200 horas de programação a R$ 250,00 por hora – R$ 50.000,00
@@ -115,7 +115,7 @@ Fase 3 – Processo Escalado
 
 Utilização do processamento distribuído apoiado no Block Chain recompensando o processamento em 60% do custo apurado para o mesmo processamento na AWS.
 
-Qual o modelo de negócio da sua solução/projeto?*
+**Qual o modelo de negócio da sua solução/projeto?**
 Descreva como será o modelo de negócios proposto para sua solução/projeto.
 O modelo de negócio escolhido para capturar a parcela de valor criado para o cliente é misto, dependendo do serviço prestado.
 
@@ -123,7 +123,7 @@ Para o serviço de Sensoriamento Remoto voltado ao uso e ocupação do solo util
 
 Já os demais serviços serão monetizados baseados em uso, no nosso caso, por metro quadrado de solo analisado ou imagem disponibilizada. Com este modelo, o cliente controla sua despesa, e adequa seu orçamento de forma prática e de simples mensuração.
 
-Quais as fontes de receita da solução/projeto de vocês?*
+**Quais as fontes de receita da solução/projeto de vocês?**
 Descreva como será/serão as fontes de receita para a solução/projeto de vocês.
 
 As fontes de receita da solução desenvolvida são os honorários cobrados na prestação dos serviços oferecidos, que são:
